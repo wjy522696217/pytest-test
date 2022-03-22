@@ -1,0 +1,62 @@
+{
+  "name": "test_login_success",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "步骤1:打开应用",
+      "status": "passed",
+      "start": 1647583832999,
+      "stop": 1647583832999
+    },
+    {
+      "name": "步骤2:进入登录页面",
+      "status": "passed",
+      "start": 1647583832999,
+      "stop": 1647583833000
+    }
+  ],
+  "start": 1647583832999,
+  "stop": 1647583833000,
+  "uuid": "ce889fd0-c0f8-4c23-a306-8ac7c23d0e1a",
+  "historyId": "ef1348f2274e3180278458242effc76d",
+  "testCaseId": "b9bed55a664eb6744abd28cf0cbc415e",
+  "fullName": "test_feature.TestLogin#test_login_success",
+  "labels": [
+    {
+      "name": "story",
+      "value": "登录成功"
+    },
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_feature"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "HIAPAD-X20P75F"
+    },
+    {
+      "name": "thread",
+      "value": "31136-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_feature"
+    }
+  ]
+}

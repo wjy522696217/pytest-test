@@ -1,0 +1,48 @@
+{
+  "name": "test_login_fail",
+  "status": "passed",
+  "start": 1647583833004,
+  "stop": 1647583833004,
+  "uuid": "e57d378b-b478-46fe-991a-7b664834baea",
+  "historyId": "65bb373e2991e03e83b0f72353e3fac1",
+  "testCaseId": "42dd9c5f24d8a5f98d9748ac118e910a",
+  "fullName": "test_feature.TestLogin#test_login_fail",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "story",
+      "value": "登录失败"
+    },
+    {
+      "name": "suite",
+      "value": "test_feature"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "HIAPAD-X20P75F"
+    },
+    {
+      "name": "thread",
+      "value": "31136-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_feature"
+    }
+  ]
+}
